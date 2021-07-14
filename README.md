@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ZUD0
 - 👀 I’m interested in ... everything computer.
 - 🌱 I’m currently learning ... web applications.
-- 💞️ Well being a newbie I am more into learning that collaborating.
+- 💞️ Well being a newbie I am more into learning than collaborating.
 - 📫 How to reach me ... anaghbasak@gmail.com
 
 <!---
